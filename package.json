@@ -1,0 +1,26 @@
+{
+  "name": "palette",
+  "version": "1.0.0",
+  "description": "palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ./**/*.js",
+    "fix": "eslint ./**/*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolling-scopes-school/primapsa-RS2019Q3/tree/codejam-palette"
+  },
+  "keywords": [
+    "pallete"
+  ],
+  "author": "prima.psa@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  }
+}
